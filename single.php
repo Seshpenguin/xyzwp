@@ -30,7 +30,12 @@ get_header();
 				}
 				?>
 			</div>
-           
+        </div>
+        <!-- Comments -->
+        <div class="card-panel white browser-default">
+            <?php
+            comments_template();
+            ?>
         </div>
     </div>
 </div>
