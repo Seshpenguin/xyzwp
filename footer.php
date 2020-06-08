@@ -21,7 +21,7 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            © 2019 Seshan Ravikumar - Parts of this website are licenced under the GNU Affero GPL v3 or later.
+            © <script>document.write(new Date().getFullYear())</script> Seshan Ravikumar - Parts of this website are licenced under the GNU Affero GPL v3 or later.
 
             <a class="grey-text text-lighten-4 right" href="#!">Source</a>
         </div>
