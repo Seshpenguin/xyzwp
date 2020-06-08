@@ -20,4 +20,4 @@ function xyzwp_gutenberg_setup() {
     add_theme_support('dark-editor-style');
     add_theme_support('responsive-embeds');
 }
-add_action('after_setup_theme', 'xyz_gutenberg_setup' );
+add_action('after_setup_theme', 'xyzwp_gutenberg_setup' );
