@@ -21,7 +21,8 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            © <script>document.write(new Date().getFullYear())</script> Seshan Ravikumar - Parts of this website are licenced under the GNU Affero GPL v3 or later.
+            © <script>document.write(new Date().getFullYear())</script> Seshan Ravikumar - Parts of this website are licenced under the <a class="grey-text text-lighten-4" href="https://www.gnu.org/licenses/agpl-3.0.en.html">GNU Affero GPL v3 or later.</a> <br />
+            Page content and blog posts are licenced under the <a class="grey-text text-lighten-4" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
             <a class="grey-text text-lighten-4 right" href="#!">Source</a>
         </div>
